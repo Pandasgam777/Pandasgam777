@@ -1,16 +1,15 @@
-## Hi there 👋
+### Welcome, Ladies and getleman! 😼
 
-<!--
-**Pandasgam777/Pandasgam777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Call me Panda, is nice to meet you!
 
-Here are some ideas to get you started:
+- i'm studing in [Alura](https://www.alura.com.br)
+- I'm developing myself in the JavaScript language.
+- I use this space for my organization and sharing of my developed projects ⚒️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can contact me 📫
+
+**pandagamer.samuel@gmail.com**
+
+**@pandasgam** `(Instagram)`
+
+![](https://media1.tenor.com/m/BWB9cDCdCaUAAAAd/fnaf-five-nights-at-freddy%27s.gif)
